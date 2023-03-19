@@ -27,4 +27,3 @@ for _ in range(m):
 	heap[1] = heap[size]
 	size -= 1
 	down(1)
-
